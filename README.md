@@ -89,8 +89,8 @@ Files
 
 churn_prediction.ipynb – Jupyter notebook with full preprocessing, model training, and prediction pipeline
 
-requirements.txt – Python package dependencies
-
 Author
+Debodip Chowdhury
+Data Scientist | Fintech & ML
 
-Shuvam Kumar – Data Scientist | Fintech & ML enthusiast
+requirements.txt – Python package dependencies
